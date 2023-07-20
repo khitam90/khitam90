@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khitam Qadri
 - 👀 I’m interested in Research and Software Testing
 - 🌱 I’m currently working as Quality Assurance Team Lead at KABi Technologies
-- I worked before with Cato, HP, IMO.
+      - I worked before with Cato, HP, IMO.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
